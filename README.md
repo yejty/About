@@ -1,6 +1,5 @@
-👋 Hi, I’m @tutka13
-👀 I’m studying Computer graphics and Geometry on Comenius University in Bratislava.  
-🌱 I’m currently creating 
+👋 Hi, I’m @tutka13, I’m studying Computer graphics and Geometry on Comenius University in Bratislava.  
+🌱 I’m currently working on 
 - VR application in unity🎮,
 - curves visualisations in c#✒,
 - basic graphic structures in c#🧬. 
